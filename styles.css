@@ -6,15 +6,12 @@
 	
 }
 .testimonial{
-	margin: 20px;
+	padding: 20px;
 	border: 1px solid #cccccc;
 	background-color: white;
 	margin-bottom:16px;
 }
-.testimonial p {
-  /* Add any desired normal styling for the testimonial text */
-	font-style: normal;
-}
+
 
 .author{
 	text-align: right;

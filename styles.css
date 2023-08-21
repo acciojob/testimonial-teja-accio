@@ -1,30 +1,14 @@
-/* Reset default margin and padding */
-body, h1, h2, h3, p, ul, li {
-  margin: 0;
-  padding: 0;
+/*  your css code here. If applicable */
+body{
+	background-color: #f5f5f5;
 }
-
-/* Main Container Styles */
-.main-container {
-  padding: 20px; /* Adjust as needed */
-  background-color: #f5f5f5; /* Set desired background color */
+.main-container{
+	padding: 16px;
+	background-color: #ffffff;
+	margin: 16px;
+	border: 2px solid #cccccc;
 }
-
-/* Testimonial Box Styles */
-.testimonial {
-  padding: 20px; /* Adjust as needed */
-  border: 1px solid #ccc; /* Set desired border properties */
-  background-color: white; /* Set desired background color */
-  margin-bottom: 20px; /* Add spacing between testimonials */
-}
-
-/* Testimonial Text Styles */
-.text {
-  /* Normal styling is the default, so no additional styles needed */
-}
-
-/* Author Styles */
-.author {
-  text-align: right;
-  font-style: italic;
+.author{
+	text-align: right;
+	font-style: italic;
 }

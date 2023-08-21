@@ -11,6 +11,10 @@
 	background-color: white;
 	margin-bottom:16px;
 }
+.testimonial p {
+  /* Add any desired normal styling for the testimonial text */
+}
+
 .author{
 	text-align: right;
 	font-style: italic;

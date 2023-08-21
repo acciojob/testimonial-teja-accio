@@ -10,4 +10,5 @@ body{
 }
 .container article{
 	text-align: right;
+	font-style: italic;
 }

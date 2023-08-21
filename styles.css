@@ -13,6 +13,7 @@
 }
 .testimonial p {
   /* Add any desired normal styling for the testimonial text */
+	font-style: normal;
 }
 
 .author{
